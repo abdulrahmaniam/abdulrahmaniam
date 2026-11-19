@@ -1,10 +1,10 @@
-# Assalamu Alaikum, I'm Peace(lover3) 👋
+# Assalamu Alaikum, I'm AbdulRahman 👋
 
 ![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f766e&height=200&section=header&text=Digital%20Resistance%20Builder&fontSize=30&fontColor=ffffff)
 
-## About Me 🚀
+## Who am I?
 
-Salam, I am a `Developer` | `Hack-Clubber` | `Entrepreneur ` 
+ `Developer` | `Hack-Clubber` | `Entrepreneur ` 
 
 Founder of: `PeaceProjection` | `MyStethoscope.pk`
 
