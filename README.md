@@ -5,11 +5,11 @@
 
  `Developer` | `Hack-Clubber` | `Entrepreneur ` 
 
-Founder of: `PeaceProjection` | `MyStethoscope.pk`
+##Founder of: `PeaceProjection` | `MyStethoscope.pk`
 
-Co-Owner of: `VibeLogics` | `FamilyCare` | `DynamicGeek`
+##Co-Owner of: `VibeLogics` | `FamilyCare` | `DynamicGeek`
 
-Certified Participant of: 
+#Certified Participant of: 
 
 `Campfire HackClub` Mar 2026
 
@@ -21,11 +21,12 @@ Certified Participant of:
 
 `Haven HackClub` Nov 2026
 
-Active Amoung:
+##Active Amoung:
 `HackClub Programs` 
 `Familycare.pk`
 `Mystethoscope.pk`
 `PeaceProjection`
+
 `Learning Game dev`
 `Learning Soft Skills`
 `Collaborating Amoung Developers`
@@ -33,15 +34,9 @@ Active Amoung:
 # Current Progress
 
 
-- 🌱 **Currently learning:** `Game dev` | `Development in General` | `WordPress` | `Soft-Skills`
+- 🌱 **Currently learning:** `Game dev` | `Development in General` | `WordPress` | `Soft-Skills` | `Business`
 - 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress` | `MyStethoscope.pk`
-- 📫 **How to reach me:** not yet published :(
-
-## Journey
-
-> *"My mission is to be a good person who loves and cares for everyone, while fighting the evil systems controlling the world through consistent, excellent work."*
-
-I am building the **Digital Resistance**. I believe technology should empower people, not enslave them to doom-scrolling, privacy violations, and moral decay. 
+- 📫 **How to reach me:** unfortunately can't reach me directly for now unless you know me I am thinking about that 
 
 ## My Tech Stack 🧠
 Love my brain lol :) tech stack? i'm not sure if I should tell or now, anyways we can have a conversation about every damm thing
