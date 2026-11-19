@@ -37,7 +37,7 @@ Active Amoung:
 - 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress` | `MyStethoscope.pk`
 - 📫 **How to reach me:** not yet published :(
 
-## My Mission 🌍
+## Journey
 
 > *"My mission is to be a good person who loves and cares for everyone, while fighting the evil systems controlling the world through consistent, excellent work."*
 
@@ -61,19 +61,3 @@ https://peaceprojection.org
 ### [opinionpoll]
 https://opinionpoll.pk/
 
-
-### [More?](#)
-Look dear man/woman We all have our little secrets, right? so yeah i'm keeping mine
-
-## Get in Touch 📬
-
-If you wanna connect then just drop an email, i'm always free 😄 i'm always open to having a conversation and open to work in case I like your idea so send it up to me 
-
-portfolio: https://peacelover3.netlify.app/
-
-- 🌐 **Website:** https://peaceprojection.org/
-- 💼 **Instagram:** https://instagram.com/peaceloverr3
-- 📩 **Email:** mailto:abdulrahman.tech@proton.me
----
-*I'm more then satisfied with what i have. Alhamdulillah.*
-# Peace -out
