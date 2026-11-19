@@ -38,7 +38,7 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 ## 📊 GitHub Stats
 
 <p>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&hide_rank=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacelover3&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>
 
