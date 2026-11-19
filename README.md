@@ -4,23 +4,26 @@
 
 ## About Me 🚀
 
-I'm a `insert whatever you know about me (which i know you know nothing)`, *FROM*: my home :) . I do development for fun not gonna lie, :) I love the stuff where I can lead a team, or can do things based on my own way of thinking, I just love good things, and programming might be a good practice for me :)
+Salam, I am a
+`Developer` | `Hack-Clubber` | `Entrepreneur ` 
+Founder of: `PeaceProjection` | `MyStethoscope.pk`
+Co-Owner of: `VibeLogics` | `FamilyCare` | `DynamicGeek`
+Certified Participant of: 
+`Campfire HackClub` Mar 2026
+`LEDGER x NGYA debate Competition`  Aug 2026
+`Communication and Soft Skills` Aug-Oct 2026
+`Worepress Development` Aug-Oct 2026
+`Haven HackClub` Nov 2026
+
+Actively Participating in:
+
+
 # Always Open
 
-proud to be a Pakistani and proud to be a Muslim.
 
-- 🌱 **Currently learning:** stop stalking me gng | a lot of life lessons
-- 🔭 **Working on:** (being good person)
-- 🌍 **Languages:** English, Urdu and for programming (why do I tell?) i ain't available for hiring (I hire you 🥲)
-- 📫 **How to reach me:** abdulrahman.tech@proton.me | https://peacelover3.netlify.app
-
-- 📫 **Rules if you expect to work with me:**
-  - **1.** No trash talks.
-  - **2.** No Songs/music.
-  - **3.** I won't work on anything that promotes hate-speach.
-  - **4.** No haram business
-  - **5.** And you are Intelligent? use common sense beyond this point.
-  - **5.** Can't compromise on any of these.
+- 🌱 **Currently learning:** `Game dev` | `Development in General` | `WordPress` | `Communications`
+- 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress`
+- 📫 **How to reach me:** abdulrahman.tech@proton.me
 
 ## My Mission 🌍
 
