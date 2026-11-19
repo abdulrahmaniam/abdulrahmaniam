@@ -1,3 +1,4 @@
+<img width="560" height="453" alt="Screenshot 2026-11-16 122604" src="https://github.com/user-attachments/assets/ba18030e-cdfe-455a-b65e-c9c8c49895be" />
 # Assalamu Alaikum, I'm AbdulRahman 👋
 
 ![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f766e&height=200&section=header&text=Digital%20Resistance%20Builder&fontSize=30&fontColor=ffffff)
