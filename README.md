@@ -38,17 +38,45 @@
 - 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress` | `MyStethoscope.pk`
 - 📫 **How to reach me:** unfortunately can't reach me directly for now unless you know me I am thinking about that 
 
-## My Tech Stack 🧠
-`Web Development`
-Html, CSS, JavaScript 
-`Mobile App Development`
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Web Development**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+### 🌐 Web Development
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![Node.js](https://shields.io)
+![Tailwind CSS](https://shields.io)
 
-**Mobile App Development**
-[![Mobile Dev Stack](https://skillicons.dev)](https://skillicons.dev)
+### 📱 Mobile App Development
+![TypeScript](https://shields.io)
+![React Native](https://shields.io)
+![Android Studio](https://shields.io)
+
+### 🎮 Game Development
+![Godot Engine](https://shields.io)
+![GDScript](https://shields.io)
+![2D & 3D Game Dev](https://shields.io)
+![Godot Shaders & Physics](https://shields.io)
+
+### 🖥️ Desktop Apps
+![Tauri](https://shields.io)
+
+### ☁️ Cloud & Backend
+![Supabase](https://shields.io)
+![Firebase](https://shields.io)
+
+### 🔐 Authentication
+![OAuth](https://shields.io)
+![Google Auth](https://shields.io)
+![Email Auth](https://shields.io)
+
+### 📩 Messaging & Subscriptions
+![Newsletter](https://shields.io)
+![Mailjet](https://shields.io)
+![Web Push](https://shields.io)
+
+### 🤖 AI Integration
+![AI Chatbots](https://shields.io)
 
 ## Featured Projects 💻
 :) don't see 
