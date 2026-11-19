@@ -55,7 +55,7 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 - Communication and Soft Skills · August–October 2026
 - WordPress Development · August–October 2026
 - Haven HackClub · November 2026
-
+ 
 ## Featured Projects 💻
 
 ### Products, platforms, and initiatives
