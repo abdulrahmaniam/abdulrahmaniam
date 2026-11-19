@@ -39,8 +39,16 @@
 - 📫 **How to reach me:** unfortunately can't reach me directly for now unless you know me I am thinking about that 
 
 ## My Tech Stack 🧠
-Love my brain lol :) tech stack? i'm not sure if I should tell or now, anyways we can have a conversation about every damm thing
-i can say that i'm pretty genius person(saying from experience not ego)
+`Web Development`
+Html, CSS, JavaScript 
+`Mobile App Development`
+### 💻 Tech Stack
+
+**Web Development**
+[![Web Dev Stack](https://skillicons.dev)](https://skillicons.dev)
+
+**Mobile App Development**
+[![Mobile Dev Stack](https://skillicons.dev)](https://skillicons.dev)
 
 ## Featured Projects 💻
 :) don't see 
