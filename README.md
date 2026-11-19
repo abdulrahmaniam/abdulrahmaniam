@@ -6,7 +6,9 @@
 
 Salam, I am a
 `Developer` | `Hack-Clubber` | `Entrepreneur ` 
+
 Founder of: `PeaceProjection` | `MyStethoscope.pk`
+
 Co-Owner of: `VibeLogics` | `FamilyCare` | `DynamicGeek`
 
 Certified Participant of: 
