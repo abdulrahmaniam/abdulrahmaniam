@@ -8,7 +8,9 @@ Salam, I am a
 `Developer` | `Hack-Clubber` | `Entrepreneur ` 
 Founder of: `PeaceProjection` | `MyStethoscope.pk`
 Co-Owner of: `VibeLogics` | `FamilyCare` | `DynamicGeek`
+
 Certified Participant of: 
+
 `Campfire HackClub` Mar 2026
 `LEDGER x NGYA debate Competition`  Aug 2026
 `Communication and Soft Skills` Aug-Oct 2026
