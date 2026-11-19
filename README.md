@@ -39,7 +39,7 @@ wish existed. I am based in Islamabad, Pakistan.
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&theme=dark&hide_border=true&rank_icon=github" alt="AbdulRahman's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&theme=dark&hide_border=true" alt="AbdulRahman's GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacelover3&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>
 
