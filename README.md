@@ -1,9 +1,7 @@
 
 # Assalamu Alaikum, I'm AbdulRahman 👋
 
-![Banner Image](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f766e&height=200&section=header&text=Digital%20Resistance%20Builder&fontSize=30&fontColor=ffffff)
-
-## Who am I?
+## Who?
 
  `Developer` | `Hack-Clubber` | `Entrepreneur ` 
 
@@ -14,20 +12,30 @@ Co-Owner of: `VibeLogics` | `FamilyCare` | `DynamicGeek`
 Certified Participant of: 
 
 `Campfire HackClub` Mar 2026
+
 `LEDGER x NGYA debate Competition`  Aug 2026
+
 `Communication and Soft Skills` Aug-Oct 2026
+
 `Worepress Development` Aug-Oct 2026
+
 `Haven HackClub` Nov 2026
 
-Actively Participating in:
-
+Active Amoung:
+`HackClub Programs` 
+`Familycare.pk`
+`Mystethoscope.pk`
+`PeaceProjection`
+`Learning Game dev`
+`Learning Soft Skills`
+`Collaborating Amoung Developers`
 
 # Current Progress
 
 
-- 🌱 **Currently learning:** `Game dev` | `Development in General` | `WordPress` | `Communications`
-- 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress`
-- 📫 **How to reach me:** abdulrahman.tech@proton.me
+- 🌱 **Currently learning:** `Game dev` | `Development in General` | `WordPress` | `Soft-Skills`
+- 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress` | `MyStethoscope.pk`
+- 📫 **How to reach me:** not yet published :(
 
 ## My Mission 🌍
 
