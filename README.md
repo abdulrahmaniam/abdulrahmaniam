@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-Salam, I am a
+Salam, I am a 
 `Developer` | `Hack-Clubber` | `Entrepreneur ` 
 
 Founder of: `PeaceProjection` | `MyStethoscope.pk`
