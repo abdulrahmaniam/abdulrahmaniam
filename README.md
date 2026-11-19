@@ -6,13 +6,13 @@
 I build digital products, experiments, games, and initiatives around ideas I
 wish existed. I am based in Islamabad, Pakistan.
 
-## 🌐 Socials
+<!-- ## 🌐 Socials
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-peacelover3.netlify.app-0b7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peacelover3.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-peacelover3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peacelover3)
 [![Instagram](https://img.shields.io/badge/Instagram-peaceloverr3-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peaceloverr3)
 [![YouTube](https://img.shields.io/badge/YouTube-PeaceProjection-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@peaceprojection)
-[![Email](https://img.shields.io/badge/Email-abdulrahman.tech%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:abdulrahman.tech@proton.me)
+[![Email](https://img.shields.io/badge/Email-abdulrahman.tech%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:abdulrahman.tech@proton.me) -->
 
 ## 💻 Tech Stack
 
@@ -39,7 +39,7 @@ wish existed. I am based in Islamabad, Pakistan.
 ## 📊 GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&theme=dark&hide_border=true" alt="AbdulRahman's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&include_all_commits=true&hide_rank=true&theme=dark&hide_border=true" alt="AbdulRahman's GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacelover3&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>
 
