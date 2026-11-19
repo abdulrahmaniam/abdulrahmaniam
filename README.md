@@ -4,9 +4,7 @@
 
 ## About Me 🚀
 
-Salam, I am a 
-
-`Developer` | `Hack-Clubber` | `Entrepreneur ` 
+Salam, I am a `Developer` | `Hack-Clubber` | `Entrepreneur ` 
 
 Founder of: `PeaceProjection` | `MyStethoscope.pk`
 
@@ -23,7 +21,7 @@ Certified Participant of:
 Actively Participating in:
 
 
-# Always Open
+# Current Progress
 
 
 - 🌱 **Currently learning:** `Game dev` | `Development in General` | `WordPress` | `Communications`
