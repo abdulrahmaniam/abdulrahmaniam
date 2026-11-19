@@ -45,7 +45,7 @@ Html, CSS, JavaScript
 ### 💻 Tech Stack
 
 **Web Development**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 
 **Mobile App Development**
 [![Mobile Dev Stack](https://skillicons.dev)](https://skillicons.dev)
