@@ -38,45 +38,31 @@
 - 🔭 **Working on:** `Phantom` | `Terra` | `PeaceProjection` | `Game-Dev` | `WordPress` | `MyStethoscope.pk`
 - 📫 **How to reach me:** unfortunately can't reach me directly for now unless you know me I am thinking about that 
 
-## 🛠️ Tech Stack
+### 💻 Tech Stack
 
-### 🌐 Web Development
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Node.js](https://shields.io)
-![Tailwind CSS](https://shields.io)
+**Web Development**
+<kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd> <kbd>Node.js</kbd> <kbd>Tailwind CSS</kbd>
 
-### 📱 Mobile App Development
-![TypeScript](https://shields.io)
-![React Native](https://shields.io)
-![Android Studio](https://shields.io)
+**Mobile App Development**
+<kbd>TypeScript</kbd> <kbd>React Native</kbd> <kbd>Android Studio</kbd>
 
-### 🎮 Game Development
-![Godot Engine](https://shields.io)
-![GDScript](https://shields.io)
-![2D & 3D Game Dev](https://shields.io)
-![Godot Shaders & Physics](https://shields.io)
+**Game Development**
+<kbd>Godot Engine</kbd> <kbd>GDScript</kbd> <kbd>2D & 3D Game Dev</kbd> <kbd>Godot Shaders</kbd> <kbd>Physics & Control UI</kbd>
 
-### 🖥️ Desktop Apps
-![Tauri](https://shields.io)
+**Desktop Apps**
+<kbd>Tauri</kbd>
 
-### ☁️ Cloud & Backend
-![Supabase](https://shields.io)
-![Firebase](https://shields.io)
+**Cloud & Backend**
+<kbd>Supabase</kbd> <kbd>Firebase</kbd>
 
-### 🔐 Authentication
-![OAuth](https://shields.io)
-![Google Auth](https://shields.io)
-![Email Auth](https://shields.io)
+**Authentication**
+<kbd>OAuth</kbd> <kbd>Google Auth</kbd> <kbd>Email Auth</kbd>
 
-### 📩 Messaging & Subscriptions
-![Newsletter](https://shields.io)
-![Mailjet](https://shields.io)
-![Web Push](https://shields.io)
+**Messaging & Subscriptions**
+<kbd>Newsletter</kbd> <kbd>Mailjet</kbd> <kbd>Web Push</kbd>
 
-### 🤖 AI Integration
-![AI Chatbots](https://shields.io)
+**AI Integration**
+<kbd>AI Chatbots</kbd>
 
 ## Featured Projects 💻
 :) don't see 
