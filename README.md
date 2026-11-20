@@ -1,5 +1,5 @@
 
-# Assalamu Alaikum, I'm AbdulRahman 👋
+# Assalamu Alaikum, I'm AbdulRahman
 
 `Developer` · `Hack-Clubber` · `Founder` · `Entrepreneur`
 
@@ -13,7 +13,7 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 [![YouTube](https://img.shields.io/badge/YouTube-PeaceProjection-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@peaceprojection)
 [![Email](https://img.shields.io/badge/Email-abdulrahman.tech%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:abdulrahman.tech@proton.me) -->
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Web, mobile, and desktop
 
@@ -35,20 +35,20 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&hide_rank=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacelover3&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>
 
-## 🚀 Current Progress
+##  Current Progress
 
-- 🌱 Learning game development, WordPress, business, and development in general.
-- 🔭 Building PeaceProjection, OpinionPool, and new game and web experiments.
-- 🤝 Collaborating with developers and Hack Club communities.
+-  Learning game development, WordPress, business, and development in general.
+-  Building PeaceProjection, OpinionPool, and new game and web experiments.
+-  Collaborating with developers and Hack Club communities.
 
-## 🏆 Certifications and programs
+##  Certifications and programs
 
 - Campfire HackClub · March 2026
 - LEDGER x NGYA Debate Competition · August 2026
@@ -56,7 +56,7 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 - WordPress Development · August–October 2026
 - Haven HackClub · November 2026
  
-## Featured Projects 💻
+## Featured Projects 
 
 ### Products, platforms, and initiatives
 
