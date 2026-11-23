@@ -3,7 +3,7 @@
 
 `Developer` · `Hack-Clubber` · `Founder` · `Entrepreneur`
 
-A developer changing the world. By promoting OpenSource and Free thinking.
+A developer changing the world. By promoting Open-Source and Free thinking.
 
 <!-- ## 🌐 Socials
 
