@@ -7,8 +7,8 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 
 <!-- ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-peacelover3.netlify.app-0b7285?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peacelover3.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-peacelover3-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peacelover3)
+[![Portfolio](https://img.shields.io/badge/abdulrahman.im?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdulrahmaniam.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-abdulrahmaniam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrahmaniam)
 [![Instagram](https://img.shields.io/badge/Instagram-peaceloverr3-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/peaceloverr3)
 [![YouTube](https://img.shields.io/badge/YouTube-PeaceProjection-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@peaceprojection)
 [![Email](https://img.shields.io/badge/Email-abdulrahman.tech%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:abdulrahman.tech@proton.me) -->
@@ -38,8 +38,8 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 ##  GitHub Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=peacelover3&show_icons=true&hide_rank=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peacelover3&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdulrahmaniam&show_icons=true&hide_rank=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmaniam&layout=compact&theme=dark&hide_border=true" alt="Most used languages" />
 </p>
 
 ##  Current Progress
@@ -69,14 +69,14 @@ A developer changing the world. By promoting OpenSource and Free thinking.
 
 - **[DynamicGeek](https://dynamicgeek.net/)** — A software studio building digital products, custom applications, and useful websites.
 - **[VibeLogics](https://vibelogics.com/)** — An IT services company working across managed services, consulting, cybersecurity, web, mobile, and cloud.
-- **[Personal portfolio](https://peacelover3.netlify.app/)** — My personal home on the web: projects, experiments, ideas, and things I am building.  
+- **[Personal portfolio](https://abdulrahmaniam.netlify.app/)** — My personal home on the web: projects, experiments, ideas, and things I am building.  
 
 ### Games and open-source experiments
 
-- **[PixelDash](https://github.com/peacelover3/PixelDash)** — A Godot game you can [play on itch.io](https://peacelover3.itch.io/pixelsdash). Created for Campfire HackClub.
+- **[PixelDash](https://github.com/abdulrahmaniam/PixelDash)** — A Godot game you can [play on itch.io](https://abdulrahmaniam.itch.io/pixelsdash). Created for Campfire HackClub.
 - **[Huang Done Wrong](https://umer7.itch.io/huang-done-wrong)** — A game made for Haven HackClub. WE WON FIRST PLACE
-- **[StudyVault](https://github.com/peacelover3/StudyVault)** — A concept for bringing study resources together in one place.
-- **[Plane Protect](https://github.com/peacelover3/plane-protect-godot)** — A Godot game-development experiment.
+- **[StudyVault](https://github.com/abdulrahmaniam/StudyVault)** — A concept for bringing study resources together in one place.
+- **[Plane Protect](https://github.com/abdulrahmaniam/plane-protect-godot)** — A Godot game-development experiment.
 
-<!-- See more experiments and works-in-progress on my [GitHub profile](https://github.com/peacelover3). -->
+<!-- See more experiments and works-in-progress on my [GitHub profile](https://github.com/abdulrahmaniam). -->
 
